@@ -1,16 +1,25 @@
-## Hi there 👋
+# yoo welcome to my profile!
+linkware:
+link = my name, *Linkoln*
+ware = coding
 
-<!--
-**linkwaree/linkwaree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(pfp by myself.)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 17 y/o
+ - am blu
+ - born in Canada, currently in Canada
+ - i like coding and arting
+ - i like fnf like LOTS
+ - i like roblox but that has nothing to do with github
+ - i do fnf for a career. i make like 5 bucks per character
+
+## I am Coding in
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,haxeflixel)](https://skillicons.dev)
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkwaree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ludum engine 
+please dont look at my other repos
